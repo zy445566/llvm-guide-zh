@@ -3,7 +3,7 @@
 * 请勿做任何商用
 * 借助了谷歌翻译，可能存在不正确的语序
 
-## 万花筒：用LLVM实现语言（备注：万花筒是语言名称）
+## 万花筒：用LLVM实现语言（备注：万花筒(Kaleidoscope)是LLVM实现的语言名称）
 
 * [万花筒：教程简介和Lexer](./Chapter1/README.md)
 * [万花筒：实现解析器和AST](./Chapter2/README.md)
