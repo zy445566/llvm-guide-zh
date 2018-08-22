@@ -596,4 +596,4 @@ clang++ -g toy.cpp `llvm-config --cxxflags --ldflags --system-libs --libs core m
 ```
 > 这是代码：[toy.cpp](./toy.cpp)
 
-[下一页：编译为目标代码](../Chapter8/README.md)
+[下一页：编译为目标代码](../Chapter08/README.md)

@@ -466,4 +466,4 @@ clang++ -g -O3 toy.cpp `llvm-config --cxxflags`
 ```
 > 这是代码：[toy.cpp](./toy.cpp)
 
-[下一步：实现代码生成到LLVM IR](../Chapter3/README.md)
+[下一步：实现代码生成到LLVM IR](../Chapter03/README.md)

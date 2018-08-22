@@ -142,4 +142,4 @@ average of 3.0 and 4.0: 3.5
 ## 8.7 完整的代码清单
 > 这是代码：[toy.cpp](./toy.cpp)
 
-[下一页：添加调试信息](../Chapter9/README.md)
+[下一页：添加调试信息](../Chapter09/README.md)

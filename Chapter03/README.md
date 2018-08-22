@@ -319,4 +319,4 @@ clang++ -g -O3 toy.cpp `llvm-config --cxxflags --ldflags --system-libs --libs co
 ```
 > 这是代码：[toy.cpp](./toy.cpp)
 
-[下一页：添加JIT和优化程序支持](../Chapter4/README.md)
+[下一页：添加JIT和优化程序支持](../Chapter04/README.md)
